@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'OnePieceFont'; /* Nombre de la fuente */
-    src: url('onePieceFont.ttf'); 
+    src: url('media/OnePieceFont.ttf'); 
 } 
 
 /* GLOBAL */
@@ -11,7 +11,7 @@
     box-sizing: border-box;
 }
 .body {
-    background-image: url(CollageOnePieceManga.png);
+    background-image: url(media/CollageOnePieceManga.png);
     background-position: center;
     background-size: cover;
     height: 100vh;
